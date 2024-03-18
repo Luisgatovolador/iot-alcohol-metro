@@ -1,2 +1,2 @@
-# iot-alcohol-metro
+# Alcoholímetro
 Instrumento de evaluación 
