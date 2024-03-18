@@ -27,7 +27,7 @@ El proyecto consiste en desarrollar un alcolímetro inteligente que utiliza un s
 | Nombre | Versión | Tipo de Software |
 |--------|---------|------------------|
 | Arduino IDE | 1.8.15 | Software Libre |
-| MQTT | 2.0.0 | Protocolo de comunicación |
+| Mosquitto | 2.0.14 | Broker MQTT de código abierto |
 | Node-RED | 2.0.6 | Software de código abierto para la integración de sistemas |
 | SQL Server | 2019 | Sistema de gestión de bases de datos relacional |
 
@@ -37,13 +37,10 @@ El proyecto consiste en desarrollar un alcolímetro inteligente que utiliza un s
 
 ![Prototipo Alcolímetro](https://example.com/path/to/image.jpg)
 
-## Comunicación
 
-La comunicación con el alcolímetro inteligente se realizará a través de una aplicación móvil. Los usuarios podrán visualizar los resultados de las pruebas de alcoholemia y temperatura en tiempo real mediante la conexión Bluetooth con la aplicación.
+## Diagrama
 
-## Arquitectura
-
-La arquitectura del sistema incluye el sensor de alcohol MQ-3, el sensor de temperatura, el microcontrolador Arduino Uno y el buzzer. A continuación se muestra un diagrama que ilustra la disposición de estos componentes:
+La arquitectura del sistema incluye el sensor de alcohol MQ-3, el sensor de temperatura, el microcontrolador Arduino Uno y el buzzer.
 
 ![Arquitectura del Sistema](https://example.com/path/to/architecture_diagram.jpg)
 
@@ -53,6 +50,7 @@ Se utilizará SQL Server como sistema de gestión de bases de datos
 
 ```sql
 -- Tabla para almacenar lecturas del sensor de alcohol MQ-3
+
 CREATE TABLE Alcohol (
     id INT PRIMARY KEY IDENTITY(1,1),
     valor FLOAT,
@@ -78,4 +76,8 @@ CREATE TABLE DeteccionAlcohol (
 ```
 
 ## Codigo
+
+## Comunicación
+
+La comunicación con el alcolímetro inteligente se realizará a través de una aplicación móvil. Los usuarios podrán visualizar los resultados de las pruebas de alcoholemia y temperatura en tiempo real mediante la conexión Bluetooth con la aplicación.**
 
