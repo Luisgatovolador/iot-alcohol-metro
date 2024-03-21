@@ -31,20 +31,13 @@ El proyecto consiste en desarrollar un alcolímetro inteligente que utiliza un s
 | Node-RED | 2.0.6 | Software de código abierto para la integración de sistemas |
 | SQL Server | 2019 | Sistema de gestión de bases de datos relacional |
 
-## Prototipo en Dibujo![Captura de pantalla 2024-03-20 185754](https://github.com/Luisgatovolador/iot-alcohol-metro/assets/116209151/1336706d-e403-45a7-8991-d46ba7d779fb)
-
-
-- Fotografía de un dibujo a mano alzada del alcolímetro inteligente  
-![WhatsApp Image 2024-03-20 at 7 07 17 PM](https://github.com/Luisgatovolador/iot-alcohol-metro/assets/116209151/ca4231c2-365a-4f4e-86fb-7dc87beef9a7)
-
-
-
-
 ## Diagrama
 
-La arquitectura del sistema incluye el sensor de alcohol MQ-3, el sensor de temperatura, el microcontrolador Arduino Uno y el buzzer.
+[Captura de pantalla 2024-03-20 185754](https://github.com/Luisgatovolador/iot-alcohol-metro/assets/116209151/1336706d-e403-45a7-8991-d46ba7d779fb)
 
-![Arquitectura del Sistema](https://example.com/path/to/architecture_diagram.jpg)
+
+## Prototipo
+![WhatsApp Image 2024-03-20 at 7 07 17 PM](https://github.com/Luisgatovolador/iot-alcohol-metro/assets/116209151/ca4231c2-365a-4f4e-86fb-7dc87beef9a7)
 
 ## Base de Datos
 
