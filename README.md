@@ -1,7 +1,5 @@
-# Alcoholímetro
-Instrumento de evaluación 
 
-# Alcolímetro Inteligente
+## Alcolímetro Inteligente
 
 ## Objetivo General - Proyecto
 
@@ -33,7 +31,7 @@ El proyecto consiste en desarrollar un alcolímetro inteligente que utiliza un s
 
 ## Diagrama
 
-[Captura de pantalla 2024-03-20 185754](https://github.com/Luisgatovolador/iot-alcohol-metro/assets/116209151/1336706d-e403-45a7-8991-d46ba7d779fb)
+![Captura de pantalla 2024-03-20 185754](https://github.com/Luisgatovolador/iot-alcohol-metro/assets/116209151/1336706d-e403-45a7-8991-d46ba7d779fb)
 
 
 ## Prototipo
