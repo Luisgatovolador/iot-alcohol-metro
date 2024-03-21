@@ -3,7 +3,7 @@ Instrumento de evaluación
 
 # Alcolímetro Inteligente
 
-## Descripción del Proyecto
+## Objetivo General - Proyecto
 
 El proyecto consiste en desarrollar un alcolímetro inteligente que utiliza un sensor de alcohol MQ-3 y un sensor de temperatura para determinar la ingesta de alcohol al igual que también medir su temperatura corporal. Esta proyecto tiene como objetivo principal proporcionar una herramienta precisa y eficiente para realizar pruebas de alcoholemia y control de temperatura de los estudiantes un dia despues de una fiesta.
 
